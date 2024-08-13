@@ -1,0 +1,27 @@
+
+
+
+
+@font-face {
+    font-family: "alfont_com_هلفيتيكا-عربي-";
+    src: url("../webfonts/HelveticaNeueLTArabic/alfont_com_هلفيتيكا-عربي-.ttf") format("truetype") , url("../webfonts/HelveticaNeueLTArabic/alfont_com_هلفيتيكا-عربي-.woff") format("woff") ;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+
+@font-face {
+    font-family: "fonnts.com-Helvetica_Neue_LT_Arabic_75_Bold";
+    src: url("../webfonts/HelveticaNeueLTArabic/fonnts.com-Helvetica_Neue_LT_Arabic_75_Bold.ttf") format("truetype") , url("../webfonts/HelveticaNeueLTArabic/fonnts.com-Helvetica_Neue_LT_Arabic_75_Bold.woff") format("woff") ;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+
+
+
