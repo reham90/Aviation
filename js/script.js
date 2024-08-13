@@ -26,8 +26,19 @@ $(document).ready(function() {
       $("html").removeClass("overflow");
   });
 
+  $(".search-icon-in-mobile").click(function(e) {
+    e.preventDefault();
+    $('.search-overlay').addClass('show-search');
+    $("body").addClass("overflow");
+    $("html").addleClass("overflow");
+  });
 
-
+  $(".close-search").click(function(e) {
+    e.preventDefault();
+    $('.search-overlay').removeClass('show-search');
+    $("body").removeClass("overflow");
+    $("html").removeClass("overflow");
+  });
 
   
   };
