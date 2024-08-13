@@ -1223,7 +1223,7 @@ line-height: 1.3;
 }
 
 .news-content{
-  width: max-content;
+  width: auto;
 }
 .news-bar-section {
   display: grid;
@@ -1234,7 +1234,7 @@ line-height: 1.3;
 .news-bar-title {
   position: relative;
   
-  width: 150px;
+  width: auto;
   text-align: center;
   background-color: var(--main-hover);
   padding-inline-start: 0;
