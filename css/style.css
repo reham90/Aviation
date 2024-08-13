@@ -1111,6 +1111,9 @@ line-height: 1.3;
   .search-div {
     width: 90%;
 }
+.newsletter-cont{
+  width: 100%;
+}
 .copyright-section{
   flex-wrap: wrap;
     justify-content: center;
